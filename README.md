@@ -2,12 +2,12 @@
 
 # Handwritten Digit Recognition Project
 
-This project aims to develop a machine learning model for recognizing handwritten digits using the MNIST dataset. The model is trained to accurately predict the digits in images of handwritten numbers.
+This project aims to develop a machine learning model for recognizing handwritten digits using the MNIST dataset. The model is trained to accurately predict the digits.
 
 ## Features
 
-- Trained a deep learning model using TensorFlow/Keras on the MNIST dataset.
-- Achieved [mention your model's accuracy] accuracy on the test set.
+- Trained a deep learning model using TensorFlow on the MNIST dataset.
+- Achieved 0.9898999929428101 accuracy on the test set.
 - Implemented a user-friendly GUI for scanning and predicting handwritten digit images.
 - Integrated image preprocessing and prediction functionalities.
 - Included a trained model (`model_Gau.h5`) that can be used for predictions.
@@ -37,7 +37,6 @@ This project is licensed under the [mention the license name, e.g., MIT License]
 
 ## Acknowledgements
 
-- The MNIST dataset is provided by [mention the source].
-- [List any other resources or libraries you've used or referenced.]
+- The MNIST dataset is provided by [Kaggle](https://www.kaggle.com).
 
 Feel free to explore the code and adapt it for your own projects or learning purposes!
